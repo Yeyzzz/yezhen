@@ -2,13 +2,15 @@
 
 
 
-<p style="font-size:18px; margin-bottom:0px;"><b>前端</b></p>
+<p style="font-size:18px; margin-bottom:0px;"><b>笔记</b></p>
+
+- [- 上传步骤github](github/1.md)
+- [- 微信小程序](微信小程序/wx.md)
+
+
+<p style="font-size:18px; margin-bottom:0px;"><b>前端</b></p >
 
 - [- Html - Css](htmlCssJs/html)
-- [- JavaScript](htmlCssJs/js)
-
-
-
 </div>
 
 <style>
